@@ -2686,7 +2686,7 @@ img#footer-logo {
   width: 100px;
   margin-top: 50px;
 }
-/* section#faq {
+/* section#rules {
   background-color: #fcfd9b;
 } */
 div#clock {
@@ -2736,7 +2736,7 @@ span {
   color: white;
 }
 section#schedules,
-section#faq {
+section#rules {
   background: #000;
 }
 .schedule .nav-tabs .nav-link,
